@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3A8388072D204924BC61F35548DE9E08A88F0C32",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E061E184F050B9694C0A08161601BF80F1E6BF3D" : 0,
+    "3A8388072D204924BC61F35548DE9E08A88F0C32" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F2E61C6F-667F-47C0-8CEA-713773D91BAA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E061E184F050B9694C0A08161601BF80F1E6BF3D" : "",
+    "3A8388072D204924BC61F35548DE9E08A88F0C32" : "OO-Vehicle-ios-0616\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OO-Vehicle",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OO-Vehicle.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:learn-co-students\/OO-Vehicle-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3A8388072D204924BC61F35548DE9E08A88F0C32"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TiciaChance\/locationTrivia-objects-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E061E184F050B9694C0A08161601BF80F1E6BF3D"
+    }
+  ]
+}
