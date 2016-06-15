@@ -61,7 +61,7 @@
 //            _currentDirection = 90;
 //        } else if (_currentDirection == 90) {
 //            _currentDirection = 180;
-//        }
+//        
 
     return _currentDirection;
 }
